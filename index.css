@@ -34,8 +34,8 @@ p{
 }
 @media only screen and (min-width:320px) and (max-width:425px){
     .maindiv{
-        margin-top: 74px;
-        margin-left: 10px;
+        margin-top: 79px;
+        margin-left: 14px;
         width: 280px;
         height: 460px;
     }
@@ -58,5 +58,15 @@ p{
     } 
     p{
         text-align: center;
+    }
+}
+
+@media only screen and (min-width:375px) and (max-width:425px)
+{
+     .maindiv{
+        margin-top: 79px;
+        margin-left: 39px;
+        width: 280px;
+        height: 460px;
     }
 }
